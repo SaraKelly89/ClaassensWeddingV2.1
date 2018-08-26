@@ -8,11 +8,7 @@ author: Sara Kelly
 
 The story of how this website came to be.
 
-<<<<<<< HEAD
-<br> Why spend hundreds of dollars having someone else create a wedding website for you when you could learn to do it yourself? This is the question I asked myself about 6 months ago. While some might call me obsessive, I like to think my want to personalise and create things exactly as I imagine them comes from a promise to myself as a child, that I would make my dreams a reality. A stock standard Square Space site wasn't going to fulfill my wedding website fantasies. So when an opportunity came up to join a group for a 10 day coding retreat at the Institute of Code in Bali, it didn't take a lot of convincing for me to pack my bags and prepare for the adventure.
-=======
 <br> While some might call me obsessive, I like to think my want to personalise and create things exactly as I imagine them comes from a promise to myself as a child, that I would make my dreams a reality. I knew that a templated site just wasn't going to fulfill my wedding website fantasies. So when an opportunity came up to join a group for a 10 day learn to code retreat at the Institute of Code in Bali, it didn't take a lot of convincing for me to pack my bags and prepare for the adventure.
->>>>>>> 5f4e7663feda325a2323775f29a01db39231a6e9
 
 <br> I arrived in Bali with the idea for a wedding website that could be used for more than just RSVPs and directions to the venue on the day. Something that wouldn't out grow its usefulness the day after the wedding. I wanted something that could be dynamic and update-able. That would be useful to a couple from the very early stages of sending out invites, all the way up to, and even past the day of the wedding. I wanted a single, go-to place for guests to find photos from the wedding they had just attended, to read the couples love story, find directions to the venue but I also wanted more.&nbsp; I had the idea that with all the travel blogs and instagram accounts from holiday destinations around the world, that I would be great if the newly wedding couple were able to share photos and stories from there honey-moon somewhere other than just on facebook. Somewhere they could look back on any time and not have this special time lost in the clutter of everyday uploads.
 
