@@ -317,6 +317,7 @@ font-style: italic;}
   }
 
 .rsvpStyle input{
+    font-family: 'Amatic SC', cursive;
   background: transparent;
   border: none;
   border-bottom: 1px dashed #555;
@@ -327,6 +328,7 @@ font-style: italic;}
 }
 
 .rsvpStyle textarea{
+  font-family: 'Amatic SC', cursive;
   background: transparent;
   border: none;
   border-bottom: 1px dashed #555;
