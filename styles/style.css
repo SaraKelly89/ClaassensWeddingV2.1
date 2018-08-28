@@ -337,7 +337,7 @@ font-style: italic;}
   font-style: italic;
   overflow: hidden;
   resize: none;
-  font-size:1em;
+  font-size:0.9em;
 }
 
 .button button{
