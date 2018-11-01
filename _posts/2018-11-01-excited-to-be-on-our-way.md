@@ -1,6 +1,6 @@
 ---
 layout: default
-title: excited to be on our way (draft)
+title: excited to be on our way
 description: The  count down is on!
 featured-image: Images/bags.jpg
 author: Sara Kelly
