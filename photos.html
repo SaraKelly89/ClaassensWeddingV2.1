@@ -1,5 +1,13 @@
 ---
 layout: default
+images: 
+    - image_path: /Images/wedding/DSC05320.jpg
+    - image_path: /Images/wedding/DSC05370.jpg
+    - image_path: /Images/wedding/DSC05552.jpg
+    - image_path: /Images/wedding/DSC05813.jpg
+    - image_path: /Images/wedding/DSC05989.jpg
+    - image_path: /Images/wedding/DSC06553.jpg
+    - image_path: /Images/wedding/DSC06644.jpg
 ---
 
 <section id="Couple">
@@ -14,6 +22,12 @@ layout: default
 
 <section id="WeddingPhotos">
     <h2> Wedding Photos </h2>
+    <ul class="photo-gallery">
+  {% for image in page.images %}
+    <li><img src="{{ image.image_path }}" alt="{{ image.title}}"/></li>
+  {% endfor %}
+</ul>
+      
     <p> stay tuned, these photos will be added after the wedding</p>
 </section>
 
