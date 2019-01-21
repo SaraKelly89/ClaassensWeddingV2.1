@@ -164,7 +164,7 @@ polygon{
 .video {
   display: flex;
   align-items: center;
-  height: 100%;
+  height: auto;
   width: auto;
   background-size: cover;
   margin-left: 5%;
