@@ -22,9 +22,9 @@ images:
 </div>
 </section>
 
-<section id="WeddingPhotos">
+<section class="grid" id="WeddingPhotos">
     <h2> Wedding Photos </h2>
-    <ul class="photo-gallery">
+    <ul class="photo-gallery col-4_xs-12">
   {% for image in page.images %}
     <li><img src="{{ image.image_path }}" alt="{{ image.title}}"/></li>
   {% endfor %}
