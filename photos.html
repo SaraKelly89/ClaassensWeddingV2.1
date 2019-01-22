@@ -26,7 +26,9 @@ images:
     <h2> Wedding Photos </h2>
     <ul class="photo-gallery">
   {% for image in page.images %}
+  <div class="postPreview col-4_sm-12">
     <li><img class="col-4_xs-12" src="{{ image.image_path }}" alt="{{ image.title}}"/></li>
+    </div>
   {% endfor %}
 </ul>
       
